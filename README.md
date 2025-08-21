@@ -33,13 +33,6 @@ Este projeto tem como objetivo analisar os fatores associados à renda efetiva t
 - Interpretação dos coeficientes
 - Verificação de multicolinearidade (VIF)
 - Análise dos resíduos
-- Avaliação do modelo em subconjuntos (acima do 50% e 75% da distribuição da renda)
-
-## 🧪 Testes de Robustez
-
-- **Q2**: Ajuste do modelo apenas para os 50% superiores da distribuição da renda
-- **Q3**: Ajuste do modelo apenas para os 25% superiores
-- Comparação dos coeficientes e desempenho do modelo nesses recortes
 
 ## 📁 Estrutura do Projeto (parcial)
 📦pnad-income-regression
